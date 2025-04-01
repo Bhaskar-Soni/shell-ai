@@ -13,7 +13,7 @@ Shell-AI is a Python-based AI-powered command generator tool designed for system
 ## Installation
 ### Prerequisites
 - Ensure you have Python 3 installed on your system.
-- Generate a Groq AI API key from [Groq Console](https://console.groq.com/keys) and set it in the environment variable `GROQ_API_KEY`.
+- Generate a Groq AI API key from [Groq Console](https://console.groq.com/keys) and add it in the file instead of `GROQ_API_KEY`.
 
 ### Install Required Dependencies
 ```bash
