@@ -1,5 +1,14 @@
 # Shell-AI: AI-Powered Command Generator
 
+```
+███████╗██╗  ██╗███████╗██╗     ██╗       █████╗ ██╗
+██╔════╝██║  ██║██╔════╝██║     ██║      ██╔══██╗██║
+███████╗███████║█████╗  ██║     ██║█████╗███████║██║
+╚════██║██╔══██║██╔══╝  ██║     ██║╚════╝██╔══██║██║
+███████║██║  ██║███████╗███████╗███████╗ ██║  ██║██║
+╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═╝  ╚═╝╚═╝
+```
+
 ## Overview
 Shell-AI is a Python-based AI-powered command generator tool designed for systems and servers where GUI access is unavailable. It helps users generate terminal commands based on their requests using an AI model. This is particularly useful when you forget a specific command but still need to execute tasks efficiently.
 
